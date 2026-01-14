@@ -417,4 +417,5 @@ finally:
         root.destroy()
     except:
         pass
+
     print("✅ Game closed cleanly.")
